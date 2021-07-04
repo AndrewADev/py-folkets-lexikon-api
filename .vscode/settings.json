@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "ENV\\Scripts\\python.exe",
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "-l",
+        "110",
+        "-S",
+        "-t"
+    ]
+}
