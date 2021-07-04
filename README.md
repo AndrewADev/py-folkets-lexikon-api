@@ -8,7 +8,7 @@ A Flask-based API for accessing and searching the Swedish-English _Folkets Lexik
 #### Dependencies
 1. `python -m venv ENV`
 2. Varies based on platform. For Windows (including most terminal emulators): `ENV\Scripts\activate.bat`. 
-3. `pip install --no-cache-dir -r requirements.txt`
+3. (for local development) `pip install --no-cache-dir -r requirements\dev.txt`
 
 #### App Data
 
