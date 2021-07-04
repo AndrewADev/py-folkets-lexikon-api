@@ -1,0 +1,2 @@
+set FLASK_APP=folkets_lexikon_api
+set FLASK_ENV=development
